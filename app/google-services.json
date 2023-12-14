@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70016472347",
+    "project_id": "app-a481b",
+    "storage_bucket": "app-a481b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70016472347:android:03fb237d9f88a420e5afbe",
+        "android_client_info": {
+          "package_name": "com.example.app_chat_zalo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq9aMYvnHgx1FSTyYC-TLx15eJPGeVn10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
